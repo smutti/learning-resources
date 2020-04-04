@@ -20,6 +20,7 @@ Before you submit your pull request consider the following guidelines:
 * <a name="books-category"></a>[Books](#books)
 * <a name="podcasts-category"></a>[Podcasts](#podcasts)
 * <a name="videos-category"></a>[Youtube channels](#videos)
+* <a name="miscellanea-category"></a>[Miscellanea](#miscellanea)
 
 ## <a name="kotlin"></a>Kotlin <sup>[Back ⇈](#kotlin-category)</sup>
 * [Introduction to Kotlin for Android](https://www.raywenderlich.com/1144981-kotlin-for-android-an-introduction)
@@ -57,3 +58,7 @@ Before you submit your pull request consider the following guidelines:
 * [Fragmented](https://fragmentedpodcast.com/)
 * [Talking kotlin](https://talkingkotlin.com/)
 * [Devpodcast](https://devpodcast.app/)
+
+## <a name="miscellanea"></a>Miscellanea <sup>[Back ⇈](#miscellanea-category)</sup>
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+* [Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
