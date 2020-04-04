@@ -13,18 +13,25 @@ Before you submit your pull request consider the following guidelines:
 * Commit your changes using a descriptive commit message. 
 
 ## Table of Contents
-* <a name="links-category"></a>[Links](#links)
+* <a name="kotlin-category"></a>[Kotlin](#links)
+* <a name="android-category"></a>[Android](#android)
 * <a name="codelabs-category"></a>[Codelabs](#codelabs)
 * <a name="blogs-category"></a>[Websites and Blogs](#blogs)
 * <a name="books-category"></a>[Books](#books)
 * <a name="podcasts-category"></a>[Podcasts](#podcasts)
 * <a name="videos-category"></a>[Youtube channels](#videos)
 
-## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
+## <a name="kotlin"></a>Kotlin <sup>[Back ⇈](#kotlin-category)</sup>
 * [Introduction to Kotlin for Android](https://www.raywenderlich.com/1144981-kotlin-for-android-an-introduction)
 * [Kotlin get started](https://developer.android.com/kotlin/get-started)
 * [Kotlin lang tutorial](https://kotlinlang.org/docs/tutorials/)
+
+## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
+* [Medium Android Developers](https://medium.com/androiddevelopers)
 * [Jetpack](https://developer.android.com/jetpack)
+* [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
+* [MergeAdapter](https://medium.com/androiddevelopers/merge-adapters-sequentially-with-mergeadapter-294d2942127a)
+* [DiffUtils](https://developer.android.com/reference/androidx/recyclerview/widget/DiffUtil.DiffResult)
 
 ## <a name="codelabs"></a>Codelabs <sup>[Back ⇈](#codelabs-category)</sup>
 * [Google codelabs](https://codelabs.developers.google.com/)
